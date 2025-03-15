@@ -1,3 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 ﻿Console.WriteLine("First Line");
 Console.WriteLine("Hello, My small World!");
+Console.WriteLine("Hello, Ukraine!");
